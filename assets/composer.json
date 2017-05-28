@@ -1,0 +1,14 @@
+{
+    "name": "fcpauldiaz/hexo-blog",
+    "description": "Heroku hexo deployer",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "fcpauldiaz",
+            "email": "info@newtonlabs.com.gt"
+        }
+    ],
+    "require": {
+      "php": ">=7.0.0"
+    }
+}
